@@ -1,0 +1,14 @@
+user-auth-service/
+├── config/
+│   └── db.js
+├── controllers/
+│   └── authController.js
+├── middleware/
+│   └── authMiddleware.js
+├── routes/
+│   └── authRoutes.js
+├── .env
+├── .gitignore
+├── package.json
+├── server.js
+└── README.md
